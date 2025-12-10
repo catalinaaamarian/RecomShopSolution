@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecomShop.ML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b786957fa97d120943eec349950729df40fada74")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecomShop.ML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecomShop.ML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

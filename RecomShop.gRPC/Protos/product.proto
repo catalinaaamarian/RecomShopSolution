@@ -1,0 +1,17 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "RecomShop.gRPC";
+
+package products;
+
+service ProductService {
+  rpc GetProductPrice (ProductRequest) returns (ProductReply);
+}
+
+message ProductRequest {
+  int32 productId = 1;
+}
+
+message ProductReply {
+  double price = 1;
+}

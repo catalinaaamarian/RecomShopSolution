@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CT5EAb/wiA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Catalina\\Desktop\\MASTER\\MEDII DE PROGRAMARE\\RecomShop.gRPC\\RecomShop.gRPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catalina\\.nuget\\packages\\google.protobuf\\3.33.2\\google.protobuf.3.33.2.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.aspnetcore\\2.71.0\\grpc.aspnetcore.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.aspnetcore.server\\2.71.0\\grpc.aspnetcore.server.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.71.0\\grpc.aspnetcore.server.clientfactory.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.core.api\\2.71.0\\grpc.core.api.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.net.client\\2.71.0\\grpc.net.client.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.net.clientfactory\\2.71.0\\grpc.net.clientfactory.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.net.common\\2.71.0\\grpc.net.common.2.71.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\grpc.tools\\2.76.0\\grpc.tools.2.76.0.nupkg.sha512"
+  ],
+  "logs": []
+}
