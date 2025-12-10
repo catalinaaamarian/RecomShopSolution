@@ -1,0 +1,20 @@
+﻿@model RecomShop.WebMVC.Controllers.PredictionResponse
+
+<h2>Predictie Pret Produs</h2>
+
+<form asp-action="Predict" method="post">
+    <div>
+        <label>Rating (1-5):</label>
+        <input type="number" name="rating" step="0.1" min="1" max="5" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Generează Preț</button>
+</form>
+
+@if (Model != null)
+{
+    <hr />
+    <h3>Rezultat:</h3>
+    <p><strong>Rating:</strong> @Model.Rating</p>
+    <p><strong>Preț prezis:</strong> @Model.PredictedPrice RON</p>
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../RecomShop.ML.API/RecomShop.ML.API.csproj" Id="4a6183be-0974-4a95-a945-8a3f8fd97e4f" />
+  <Project Path="../RecomShop.ML/RecomShop.ML.csproj" Id="39c82a9f-8613-4839-bf6a-e3ff5e029ad6" />
+  <Project Path="RecomShop.WebMVC.csproj" />
+</Solution>

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "RecomShop – Your Smart Marketplace";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 fw-bold">Welcome to RecomShop</h1>
+        <p class="lead">Your smart online store with personalized product recommendations.</p>
+
+        <a class="btn btn-primary btn-lg mt-3" asp-controller="Products" asp-action="Index">
+            Browse Products
+        </a>
+    </div>
+
+    <hr class="my-5" />
+
+    <div class="row text-center">
+        <div class="col-md-4">
+            <h3>Products</h3>
+            <p>See all available products.</p>
+            <a class="btn btn-outline-primary" asp-controller="Products" asp-action="Index">View</a>
+        </div>
+        <div class="col-md-4">
+            <h3>Categories</h3>
+            <p>Organized collections of products.</p>
+            <a class="btn btn-outline-primary" asp-controller="Categories" asp-action="Index">View</a>
+        </div>
+        <div class="col-md-4">
+            <h3>Orders</h3>
+            <p>Manage customer orders.</p>
+            <a class="btn btn-outline-primary" asp-controller="Orders" asp-action="Index">View</a>
+        </div>
+    </div>
+</div>
